@@ -1,0 +1,12 @@
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\bin\Debug\thoi_khoa_bieu.exe.config
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\bin\Debug\thoi_khoa_bieu.exe
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\bin\Debug\thoi_khoa_bieu.pdb
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.csproj.AssemblyReference.cache
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.Form1.resources
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.Properties.Resources.resources
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.csproj.GenerateResource.cache
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.csproj.CoreCompileInputs.cache
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.exe
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.pdb
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.DailyPlan.resources
+D:\A-code\C#\thiet ke lich\thoi_khoa_bieu\obj\Debug\thoi_khoa_bieu.Task.resources
